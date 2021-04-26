@@ -6,4 +6,5 @@ Basic-Recommender-Systems
 * ContentBased (String Comparison)
 * KNN 
 * Matrix Factorization
+
 Author: ZHANG Zhen, Dr. (Data Scientist, Singapore Data Science Consortium)
